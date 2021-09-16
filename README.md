@@ -1,0 +1,1 @@
+I first thought about the problem of how I would mathematically generate random password. I could use integers to create string of letters in a variable. Then I would need to set parameters of how many, the addition of symbols and numbers and so on and so forth. 
